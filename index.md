@@ -21,7 +21,7 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/dropout-death-row-jen-hawkins-meezc)/
+#### [Education Project](https://www.linkedin.com/pulse/dropout-death-row-jen-hawkins-meezc)
 [<img src="images/Evaluating The School System.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
