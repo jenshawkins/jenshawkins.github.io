@@ -10,7 +10,7 @@ I analyzed 2000+ customers across 6 different marketing campaigns discussing cus
 with a focus on data storytelling.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Linked File Project](/files/SQL Project.pdf)
 <img src="images/Financial Analytics on The World Bank.png?raw=true"/>
 I data mined 1.2M real bank transactions to find financial outliers, patterns, & trends.. 
 
