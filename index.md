@@ -30,7 +30,7 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### Project Category
 
 - [DoorDash Excel](http://example.com/)
 - [Education Tableau](http://example.com/)
