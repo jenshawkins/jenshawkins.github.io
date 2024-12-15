@@ -12,12 +12,12 @@ with a focus on data storytelling.
 ---
 #### [Linked File Project](/files/SQL Project.pdf)
 <img src="images/Financial Analytics on The World Bank.png?raw=true"/>
-I data mined 1.2M real bank transactions to find financial outliers, patterns, & trends.. 
+I data mined 1.2M real bank transactions to find financial outliers, patterns, & trends.
 
 ---
 #### [External Link Project](https://www.linkedin.com/article/edit/7271278823218786305)
 [<img src="images/Healthcare Data Analysis.png"/>](https://www.linkedin.com/article/edit/7271278823218786305)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+I created a report highlighting operational differences in 101k healthcare patients. 
 
 
 ---
