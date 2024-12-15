@@ -6,12 +6,13 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/DoorDash Project.png?raw=true"/>
-Tolulope is the best
+I analyzed 2000+ customers across 6 different marketing campaigns discussing customer retention solutions
+with a focus on data storytelling.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/Financial Analytics on The World Bank.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+I data mined 1.2M real bank transactions to find financial outliers, patterns, & trends.. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
