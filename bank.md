@@ -1,5 +1,6 @@
 # Door Dash Project
 
+Original Version on Linkedin: https://www.linkedin.com/pulse/your-customers-situationship-jen-hawkins-n5vjc/
 
 Discover Loyalty Patterns with DoorDash!
 The project focuses on analyzing loyal customer behavior for DoorDash. I was inspired by the show "Love is Blind" to compare customer loyalty to romantic relationships. They aimed to identify loyal customers and their spending patterns to enhance marketing strategies. The dataset is based on a modified case study from iFood, containing information on customer demographics and purchase behavior. Key findings include insights on customer spending habits, the significance of age in loyalty, and the surprising cost of advertising versus customer retention. Visuals include scatter plots that illustrate spending patterns and customer engagement with ads. The conclusion provides actionable insights into nurturing customer loyalty and targeting at-risk customers.
