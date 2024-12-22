@@ -16,7 +16,7 @@ I data mined 1.2M real bank transactions to find financial outliers, patterns, &
 
 ---
 #### [External Link Project](https://www.linkedin.com/article/edit/7271278823218786305)
-[<img src="images/Healthcare Data Analysis.png"/>](https://www.linkedin.com/article/edit/7271278823218786305)
+[<img src="images/Healthcare Data Analysis.png"/>](https://www.linkedin.com/pulse/life-death-trip-hospital-jen-hawkins-hhzpc/?trackingId=SsDp%2Fp63RcavUgoyz7rgUg%3D%3D)
 I created a report highlighting operational differences in 101k healthcare patients. 
 
 
