@@ -32,11 +32,11 @@ What are the top math schools in the state?
 
 ### Project Category
 
-- [DoorDash Excel](http://example.com/)
-- [Education Tableau](http://example.com/)
-- [Financial Analysis SQL](http://example.com/)
-- [Healthcare SQL](http://example.com/)
-- [Basketball Tableau](http://example.com/)
+- [DoorDash Excel](https://www.linkedin.com/pulse/your-customers-situationship-jen-hawkins-n5vjc)
+- [Education Tableau](https://public.tableau.com/app/profile/jen.hawkins/viz/MassachusettsSchoolProjectUnicornPurpleGold/Unicorn)
+- [Financial Analysis SQL](https://www.linkedin.com/pulse/sneak-peak-world-banking-jen-hawkins-lsx7c/)
+- [Healthcare SQL](https://www.linkedin.com/pulse/life-death-trip-hospital-jen-hawkins-hhzpc/)
+- [Engineering Python](https://www.linkedin.com/pulse/data-mining-iron-ore-jen-hawkins-pqbqc/)
 
 ---
 
